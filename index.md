@@ -2,11 +2,18 @@
 layout: default
 ---
 
+
+## 一些遇见过的人
+
+> 他们参与构成了我的视野，经历，和一部份。
+
+[Rebecca](./rebecca.html).
+
+
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
-
-[Link to Rebecca](./rebecca.html).
 
 There should be whitespace between paragraphs.
 
@@ -15,6 +22,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 # Header 1
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+
 
 ## Header 2
 
