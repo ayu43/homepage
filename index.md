@@ -7,13 +7,12 @@ layout: default
 
 > 他们参与构成了我的视野，经历，和一部份。
 
-[Rebecca](./rebecca.html).
-
+[Rebecca](./_articles/_people/rebecca.html).
 
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+[Link to another page](./_articles/_comment/kami.html).
 
 There should be whitespace between paragraphs.
 
