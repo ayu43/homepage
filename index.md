@@ -21,6 +21,8 @@ layout: default
 
 [kami page](./_articles/_comment/kami.html).
 
+[Favorite football club](./pages/article.html).
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 
