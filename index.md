@@ -44,9 +44,9 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 <dt>Yihong</dt>
   <dd><a href="http://yihongz.me/">http://yihongz.me/</a></dd>
 <dt>Guanghao Ye</dt>
-<dd>https://yeguanghao.xyz/</dd>
+  <dd><a href="https://yeguanghao.xyz/">https://yeguanghao.xyz/</a></dd>
 <dt>Alan Tian</dt>
-<dd>https://alantian.net/</dd>
+  <dd><a href="https://alantian.net/">https://alantian.net/</a></dd>
 </dl>
 
 
