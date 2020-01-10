@@ -9,10 +9,10 @@ layout: default
 
 [Rebecca](./_articles/_people/rebecca.html).
 
+[Link to another page](./_articles/_comment/kami.html).
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./_articles/_comment/kami.html).
 
 There should be whitespace between paragraphs.
 
