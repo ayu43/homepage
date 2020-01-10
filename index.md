@@ -10,13 +10,16 @@ layout: default
 
 > 他们参与构成了我的视野，经历，和一部份。
 
+
+[Link to another page](./another-page.html).
+
 [test](./README.html).
 
 [Rebecca](./_articles/_people/rebecca.html).
 
 
 
-[Link to another page](./_articles/_comment/kami.html).
+[kami page](./_articles/_comment/kami.html).
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
