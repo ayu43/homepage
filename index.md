@@ -42,7 +42,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 <dl>
 <dt>Yihong</dt>
-<dd><http://yihongz.me/></dd>
+  <dd><a href="http://yihongz.me/">http://yihongz.me/</a></dd>
 <dt>Guanghao Ye</dt>
 <dd>https://yeguanghao.xyz/</dd>
 <dt>Alan Tian</dt>
