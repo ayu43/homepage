@@ -6,25 +6,19 @@ layout: default
 # 为什么要做这个网站
 2019年发生了很多事，不仅在我身上，而且在整个世界上。
 
-## People
+Text can be **bold**, _italic_, or ~~strikethrough~~.
 
+## People
 > 一些遇见过的人。他们参与构成了我的视野，经历，和一部份。
 
-
 [Link to another page](./another-page.html).
-
 [test](./test.html).
 
 [Rebecca](./articles/people/rebecca.html).
 
-
-
-[kami page](./articles/comment/kami.html).
+[Bearwalk](./articles/people/bearwalk.html).
 
 [Favorite football club](./pages/article.html).
-
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
 
 ## Events
 
@@ -34,6 +28,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 ## Comments
 
 > 一些作品评论.reflection。
+[kami page](./articles/comment/kami.html).
 
 ## Places
 
