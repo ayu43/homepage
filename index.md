@@ -13,7 +13,7 @@ layout: default
 
 [Link to another page](./another-page.html).
 
-[test](./README.html).
+[test](./test.html).
 
 [Rebecca](./_articles/_people/rebecca.html).
 
