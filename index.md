@@ -10,10 +10,9 @@ layout: default
 
 > 他们参与构成了我的视野，经历，和一部份。
 
-[Rebecca](./_articles/_people/rebecca.html).
-
 [test](./README.html).
 
+[Rebecca](./_articles/_people/rebecca.html).
 
 
 
