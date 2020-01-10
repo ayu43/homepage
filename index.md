@@ -15,11 +15,11 @@ layout: default
 
 [test](./test.html).
 
-[Rebecca](./_articles/_people/rebecca.html).
+[Rebecca](./articles/people/rebecca.html).
 
 
 
-[kami page](./_articles/_comment/kami.html).
+[kami page](./articles/comment/kami.html).
 
 [Favorite football club](./pages/article.html).
 
