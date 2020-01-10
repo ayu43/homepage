@@ -40,6 +40,10 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 <dl>
 <dt>Yihong</dt>
 <dd>http://yihongz.me/</dd>
+<dt>Guanghao Ye</dt>
+<dd>https://yeguanghao.xyz/</dd>
+<dt>Alan Tian</dt>
+<dd>https://alantian.net/</dd>
 </dl>
 
 
