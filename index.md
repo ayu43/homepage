@@ -6,9 +6,9 @@ layout: default
 # 为什么要做这个网站
 2019年发生了很多事，不仅在我身上，而且在整个世界上。
 
-## 一些遇见过的人
+## People
 
-> 他们参与构成了我的视野，经历，和一部份。
+> 一些遇见过的人。他们参与构成了我的视野，经历，和一部份。
 
 
 [Link to another page](./another-page.html).
@@ -26,16 +26,16 @@ layout: default
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 
-## 一些发生过的事
+## Events
 
-> 我见证过，参与过。
+> 一些发生过的事。我见证过，参与过。
 
 
-## 一些作品评论
+## Comments
 
-> reflection。
+> 一些作品评论.reflection。
 
-## 一些去过的地方
+## Places
 
 > 会一直在那里
 
