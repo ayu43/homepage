@@ -27,8 +27,14 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 ## Comments
 
-> 一些作品评论.reflection。
+> 一些作品评论. reflection
+
 [kami page](./articles/comment/kami.html).
+
+[魔法禁书目录](./articles/comment/kami.html).
+
+
+
 
 ## Places
 
