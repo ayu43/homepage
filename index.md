@@ -31,7 +31,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [kami page](./articles/comment/kami.html).
 
-[魔法禁书目录](./articles/comment/kami.html).
+[魔法禁书目录](./articles/comment/mojin.html).
 
 
 
