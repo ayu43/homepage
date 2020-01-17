@@ -30,7 +30,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 > 一些作品评论. reflection
 
-[kami page](./articles/comment/kami.html).
+[只有神知道的世界](./articles/comment/kami.html).
 
 
 ### 转载文章
