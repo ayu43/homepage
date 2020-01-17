@@ -24,6 +24,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 > 一些发生过的事。我见证过，参与过。
 
+[二零一七年六月四日](./articles/event/64.html).
 
 ## Comments
 
