@@ -12,6 +12,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 > 一些遇见过的人。他们参与构成了我的视野，经历，和一部份。
 
 [Link to another page](./another-page.html).
+
 [test](./test.html).
 
 [Rebecca](./articles/people/rebecca.html).
