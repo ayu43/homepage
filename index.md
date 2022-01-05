@@ -19,8 +19,6 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Bearwalk](./articles/people/bearwalk.html).
 
-[Favorite football club](./pages/article.html).
-
 ## Experience
 
 > 一些发生过的事。我见证过，参与过。
