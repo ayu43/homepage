@@ -23,18 +23,18 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 > 一些发生过的事。我见证过，参与过。
 
-[二零一七年六月四日](./articles/event/64.html).
+[二零一七年六月四日](./20170604.html).
 
 ## Comments
 
 > 一些作品评论. reflection
 
-[只有神知道的世界](./articles/comment/kami.html).
+[只有神知道的世界](./kami.html).
 
 
 ### 转载文章
 
-[魔法禁书目录](./articles/comment/mojin.html).
+[魔法禁书目录](./mojin.html).
 
 
 
