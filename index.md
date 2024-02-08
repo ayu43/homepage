@@ -15,10 +15,6 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [test](./test.html).
 
-[Rebecca](./articles/people/rebecca.html).
-
-[Bearwalk](./articles/people/bearwalk.html).
-
 ## Experience
 
 > 一些发生过的事。我见证过，参与过。
@@ -35,11 +31,6 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 ### 转载文章
 
 [魔法禁书目录](./mojin.html).
-
-
-
-
-
 
 ## Places
 
